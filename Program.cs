@@ -27,6 +27,22 @@ Console.WriteLine("Ingrese el primer número: ");
                 resultado = num1 - num2;
                 Console.WriteLine($"Resultado: {num1} - {num2} = {resultado}");
                 break;
+            case 3:
+                resultado = num1 * num2;
+                Console.WriteLine($"Resultado: {num1} * {num2} = {resultado}");
+                break;
+            case 4:
+                if (num2 != 0)
+                {
+                    resultado = (double)num1 / num2;
+                    Console.WriteLine($"Resultado: {num1} / {num2} = {resultado}");
+                }
+                else
+                {
+                    Console.WriteLine("Error: No se puede dividir entre cero.");
+                    operacionValida = false;
+                }
+                break;
             default:
                 Console.WriteLine("Opción inválida.");
                 operacionValida = false;
