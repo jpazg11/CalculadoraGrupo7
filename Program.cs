@@ -14,3 +14,27 @@ Console.WriteLine("Ingrese el primer número: ");
         Console.Write("Opción: ");
         int opcion = Convert.ToInt32(Console.ReadLine());
 
+         double resultado = 0;
+        bool operacionValida = true;
+
+        switch (opcion)
+        {
+            case 1:
+                resultado = num1 + num2;
+                Console.WriteLine($"Resultado: {num1} + {num2} = {resultado}");
+                break;
+            case 2:
+                resultado = num1 - num2;
+                Console.WriteLine($"Resultado: {num1} - {num2} = {resultado}");
+                break;
+            default:
+                Console.WriteLine("Opción inválida.");
+                operacionValida = false;
+                break;
+        }
+
+if (operacionValida)
+{
+    Console.WriteLine("¡Operación completada con éxito!");
+}
+
