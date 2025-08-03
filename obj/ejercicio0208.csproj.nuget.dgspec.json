@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josep\\Desktop\\ejercicio0208\\ejercicio0208.csproj": {}
+    "C:\\Users\\ISMAEL\\Documents\\UNIVERSIDAD\\SEMESTRE IV 2025\\PROGRAMACION II\\CalculadoraGrupo7\\ejercicio0208.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josep\\Desktop\\ejercicio0208\\ejercicio0208.csproj": {
+    "C:\\Users\\ISMAEL\\Documents\\UNIVERSIDAD\\SEMESTRE IV 2025\\PROGRAMACION II\\CalculadoraGrupo7\\ejercicio0208.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josep\\Desktop\\ejercicio0208\\ejercicio0208.csproj",
+        "projectUniqueName": "C:\\Users\\ISMAEL\\Documents\\UNIVERSIDAD\\SEMESTRE IV 2025\\PROGRAMACION II\\CalculadoraGrupo7\\ejercicio0208.csproj",
         "projectName": "ejercicio0208",
-        "projectPath": "C:\\Users\\josep\\Desktop\\ejercicio0208\\ejercicio0208.csproj",
-        "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josep\\Desktop\\ejercicio0208\\obj\\",
+        "projectPath": "C:\\Users\\ISMAEL\\Documents\\UNIVERSIDAD\\SEMESTRE IV 2025\\PROGRAMACION II\\CalculadoraGrupo7\\ejercicio0208.csproj",
+        "packagesPath": "C:\\Users\\ISMAEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ISMAEL\\Documents\\UNIVERSIDAD\\SEMESTRE IV 2025\\PROGRAMACION II\\CalculadoraGrupo7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ISMAEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
