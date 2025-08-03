@@ -13,3 +13,18 @@ c:\Users\ISMAEL\Documents\UNIVERSIDAD\SEMESTRE IV 2025\PROGRAMACION II\Calculado
 c:\Users\ISMAEL\Documents\UNIVERSIDAD\SEMESTRE IV 2025\PROGRAMACION II\CalculadoraGrupo7\obj\Debug\net9.0\ejercicio0208.pdb
 C:\Users\ISMAEL\Documents\UNIVERSIDAD\SEMESTRE IV 2025\PROGRAMACION II\CalculadoraGrupo7\obj\Debug\net9.0\ejercicio0208.genruntimeconfig.cache
 C:\Users\ISMAEL\Documents\UNIVERSIDAD\SEMESTRE IV 2025\PROGRAMACION II\CalculadoraGrupo7\obj\Debug\net9.0\ref\ejercicio0208.dll
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\bin\Debug\net9.0\ejercicio0208.exe
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\bin\Debug\net9.0\ejercicio0208.deps.json
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\bin\Debug\net9.0\ejercicio0208.runtimeconfig.json
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\bin\Debug\net9.0\ejercicio0208.dll
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\bin\Debug\net9.0\ejercicio0208.pdb
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\obj\Debug\net9.0\ejercicio0208.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\obj\Debug\net9.0\ejercicio0208.AssemblyInfoInputs.cache
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\obj\Debug\net9.0\ejercicio0208.AssemblyInfo.cs
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\obj\Debug\net9.0\ejercicio0208.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\obj\Debug\net9.0\ejercicio0208.sourcelink.json
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\obj\Debug\net9.0\ejercicio0208.dll
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\obj\Debug\net9.0\refint\ejercicio0208.dll
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\obj\Debug\net9.0\ejercicio0208.pdb
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\obj\Debug\net9.0\ejercicio0208.genruntimeconfig.cache
+C:\Users\Axel\Desktop\CalGroup\CalculadoraGrupo7\obj\Debug\net9.0\ref\ejercicio0208.dll
